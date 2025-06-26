@@ -1,0 +1,51 @@
+.body{
+    /* background-color: white; */
+    margin: 0 0;
+    padding: 0 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.container{
+    background-color: rgb(251, 194, 243);
+    width: 50%;
+    margin: 120px auto;
+    padding: 25px;
+    box-shadow: 10px 10px 5px rgb(82,11 ,77);
+    border-radius: 6px;
+    
+}
+/* 
+.container {
+    display: flex;
+    border: 2px solid magenta;
+    width: 600px;
+    height: 300px;
+} */
+.sidebar {
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 10px;
+}
+
+.btn{
+        color: white;
+        background-color: rgb(205, 75, 159);
+        padding: 10px;
+        font-size: medium;
+        border-radius: 5px;
+    
+}
+.btn:hover:hover {
+    background-color:rgb(228, 75, 215);
+}
+
+.log-btn {
+        color: rgb(203, 37, 37);
+        background-color: rgb(239, 204, 226);
+        padding: 10px;
+        font-size: large;
+}

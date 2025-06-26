@@ -1,0 +1,28 @@
+.body {
+  font-family: Arial, sans-serif;
+  margin:0 0;
+  padding:0 0;
+  /* background-color: #f7b1ee; */
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+}
+
+/* .tab {
+  text-align: center;
+} */
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+
+.t1 tr:hover {background-color: rgb(220, 202, 195);}
+
+th {
+  background-color: #95efce;
+  color: white;
+}
